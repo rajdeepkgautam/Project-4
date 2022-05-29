@@ -115,7 +115,7 @@ select{
     border: 3px solid #ededed;
     padding: 10px 40px 10px 40px;
 }
-.container5{
+.Message1{
     position: absolute;
     top: 212px;
     left: 796px;
@@ -130,7 +130,7 @@ select{
     font-weight: bold;
     padding-top: 40px;
 }
-.container6{
+.greetMessage{
     position: absolute;
     top: 545px;
     left: 150px;
